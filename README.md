@@ -3,7 +3,7 @@
   
 <div align="center">
   
-![My GitHub Image](https://raw.githubusercontent.com/TarekBenAmor/TarekBenAmor/main/assets/github.png)
+![My GitHub Image](https://fr.pinterest.com/pin/66217057017311429/)
 
 </div>
 
