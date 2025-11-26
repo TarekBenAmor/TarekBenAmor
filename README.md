@@ -3,7 +3,7 @@
   
 <div align="center">
   
-[Télécharger la vidéo](https://github.com/TarekBenAmor/TarekBenAmor/raw/main/assets/informatique.mp4)
+![Télécharger la vidéo](https://github.com/TarekBenAmor/TarekBenAmor/raw/main/assets/informatique.mp4)
 
 </div>
 
