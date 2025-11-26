@@ -1,7 +1,15 @@
 
 <div align="center" width="50">
   
+![Banner](https://github.com/matyo91/matyo91/raw/main/assets/github.gif)
 
+# Hi, I'm Tarek 👋 
+### 🚀 Tunisian Software Developer  
+### 💻 Always learning, building, and exploring new technologies
+
+<br>
+
+![Working](https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%")
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
