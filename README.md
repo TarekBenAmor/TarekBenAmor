@@ -1,8 +1,14 @@
 
 <div align="center" width="50">
-
+  
+<!--
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Tarek 👋 🚀 Tunisian software developer  🚀  💻 Always learning, building, and exploring new technologies">
+</p>
+-->
+  
+<p align="center">
+  <strong>Hi, I'm Tarek 👋 🚀 Tunisian software developer 🚀 💻 Always learning, building, and exploring new technologies</strong>
 </p>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
