@@ -5,11 +5,19 @@
 <p align="center">
   <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Tarek 👋 🚀 Tunisian software developer  🚀  💻 Always learning, building, and exploring new technologies">
 </p>
--->
   
 <p align="center">
   <strong>Hi, I'm Tarek 👋 🚀 Tunisian software developer 🚀 💻 Always learning, building, and exploring new technologies</strong>
 </p>
+-->
+
+<div class="hero" aria-label="Texte sur image">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Image decorative">
+  <div class="overlay" style="background: rgba(0,0,0,0.25); padding: 0.25rem 0.75rem; border-radius: 6px;">
+    Hi, I'm Tarek 👋 🚀 Tunisian software developer 🚀 💻 Always learning, building, and exploring new technologies
+  </div>
+</div>
+
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
