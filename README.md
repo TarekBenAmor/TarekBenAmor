@@ -106,8 +106,7 @@
 - 🎬 **Cinéphile** : Passionné de films et séries
 - 🔧 **Hardware** : Expert en assemblage et optimisation PC
 - 💬 **Disponible** : Pour échanger sur tous ces sujets !
-
- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /> 
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /> <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" style="vertical-align: middle;" /> &nbsp; 
   **Find me on Telegram - Scan this QR code :**
   <br>
