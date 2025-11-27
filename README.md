@@ -77,7 +77,9 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" style="vertical-align: middle;" /> &nbsp; 
   **Find me on Telegram - Scan this QR code :**
   <br>
-  <img src="https://raw.githubusercontent.com/TarekBenAmor/TarekBenAmor/main/assets/Telegram.jpeg" width="100" style="vertical-align: middle;" alt="Telegram QR Code">
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TarekBenAmor/TarekBenAmor/main/assets/Telegram.jpeg" width="100" style="vertical-align: middle;" alt="Telegram QR Code">
+  </div>
 <br>
 
 
