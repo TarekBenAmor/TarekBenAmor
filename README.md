@@ -101,11 +101,11 @@
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
 
 <br><br>
-- 💻 **Actuellement** : Je plonge dans **Frappe Framework**
-- 🐧 **Amoureux de** : L'univers **GNU/Linux** et son écosystème
-- 🎬 **Cinéphile** : Passionné de films et séries
-- 🔧 **Hardware** : Expert en assemblage et optimisation PC
-- 💬 **Disponible** : Pour échanger sur tous ces sujets !
+- 💻 **Currently Mastering**: Full-Stack Development with **SpringBoot + Angular, MERN Stack, and ASP.Net Core**
+- 🐧 **Passionate About**: The **GNU/Linux** universe and its ecosystem
+- 🎬 **Cinephile**: Avid film and series enthusiast
+- 🔧 **Hardware**: Expert in PC assembly and optimization
+- 💬 **Available**: To chat about all these topics!
  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /> <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" style="vertical-align: middle;" /> &nbsp; 
   **Find me on Telegram - Scan this QR code :**
@@ -128,7 +128,11 @@
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<div align="center">
+
+  ![Profile Summary](https://raw.githubusercontent.com/TarekBenAmor/TarekBenAmor/main/assets/0-profile-details.png)
+
+</div>
 
 </details>
   
