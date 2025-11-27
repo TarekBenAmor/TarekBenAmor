@@ -128,7 +128,11 @@
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<div align="center">
+
+  ![Profile Summary](https://raw.githubusercontent.com/TarekBenAmor/TarekBenAmor/main/assets/0-profile-details.png)
+
+</div>
 
 </details>
   
