@@ -101,7 +101,7 @@
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)
 
 <br><br>
-- 💻 **Actuellement** : Je plonge dans **Frappe Framework**
+- 💻 **Maîtrise en cours** : Développement Full-Stack avec **SpringBoot + Angular, MERN Stack et ASP.Net Core**
 - 🐧 **Amoureux de** : L'univers **GNU/Linux** et son écosystème
 - 🎬 **Cinéphile** : Passionné de films et séries
 - 🔧 **Hardware** : Expert en assemblage et optimisation PC
