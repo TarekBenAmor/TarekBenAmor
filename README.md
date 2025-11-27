@@ -16,7 +16,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/TarekBenAmor/TarekBenAmor&label=VISITORS&countColor=%23263759)
  <br>
 </div>
 
