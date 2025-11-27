@@ -1,5 +1,12 @@
 
 <div align="center" width="50">
+
+
+# Hi, I'm Tarek 👋 
+### 🚀 Tunisian Software Developer  
+### 💻 Always learning, building, and exploring new technologies
+
+<br>
   
 <div align="center">
   
