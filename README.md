@@ -75,8 +75,9 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" style="vertical-align: middle;" /> &nbsp; 
-  **Find me on Telegram - Scan this QR code :** 
-  <img src="https://raw.githubusercontent.com/TarekBenAmor/TarekBenAmor/main/assets/Telegram.jpeg" width="25" style="vertical-align: middle;" alt="Telegram QR Code">
+  **Find me on Telegram - Scan this QR code :**
+  <br>
+  <img src="https://raw.githubusercontent.com/TarekBenAmor/TarekBenAmor/main/assets/Telegram.jpeg" width="100" style="vertical-align: middle;" alt="Telegram QR Code">
 <br>
 
 
